@@ -14,8 +14,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "@toast-ui/react-calendar": "^1.0.5",
+    "axios": "^0.21.4",
+    "process": "^0.11.10",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "tui-calendar": "^1.14.1",
+    "tui-date-picker": "^4.3.0",
+    "tui-time-picker": "^2.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
@@ -30,6 +36,7 @@
     "@typescript-eslint/parser": "^4.29.2",
     "babel-loader": "^8.2.2",
     "css-loader": "^6.2.0",
+    "dotenv": "^10.0.0",
     "eslint": "^7.25.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-typescript": "^13.0.0",

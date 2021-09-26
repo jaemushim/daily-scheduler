@@ -4,11 +4,10 @@
             "calendarId": "1",
             "category": "time",
             "isVisible": true,
-            "title": "Study",
+            "title": "zzzzzzzzzz",
             "id": "1",
             "body": "Test",
-            "start":"2021-08-31T14:30:00.000Z",
-            "end": "2021-08-31T15:30:00.000Z"
+            "start":"2021-08-31"
         },
         {
             "calendarId": "1",

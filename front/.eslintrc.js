@@ -13,5 +13,6 @@ module.exports = {
     'react/jsx-uses-react': 'off',
     'react/react-in-jsx-scope': 'off',
     'linebreak-style': 0,
+    'no-console': 'off',
   },
 };
