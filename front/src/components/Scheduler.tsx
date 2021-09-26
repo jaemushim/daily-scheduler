@@ -8,11 +8,19 @@ import 'tui-time-picker/dist/tui-time-picker.css';
 const calendars = [
   {
     id: '1',
-    name: 'dailyPlan ',
-    color: '#ffffff',
-    bgColor: '#00a9ff',
-    dragBgColor: '#00a9ff',
-    borderColor: '#00a9ff',
+    name: 'dailyPlan',
+    color: '#222',
+    bgColor: '#fff',
+    dragBgColor: '#fff',
+    borderColor: '#fff',
+  },
+  {
+    id: '2',
+    name: 'succeed',
+    color: '#fff',
+    bgColor: '#28a745',
+    dragBgColor: '#28a745',
+    borderColor: '#28a745',
   },
 ];
 
@@ -109,11 +117,15 @@ const Calendar = () => {
 
   return (
     <div className="App">
-      <h1>Front-End Developer. &nbsp; jaemu</h1>
-
+      <div className="flex">
+        <h1>jaemu&apos;s daily goal</h1>
+        <div>
+          <span className="badge" /> : 완료
+        </div>
+      </div>
       <TUICalendar
         ref={cal}
-        height="756px"
+        height="736px"
         view="month"
         useCreationPopup
         useDetailPopup
