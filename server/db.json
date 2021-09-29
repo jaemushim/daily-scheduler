@@ -5,7 +5,6 @@
             "category": "time",
             "isVisible": true,
             "title": "스케쥴러 json.server로 기초 구현",
-            "id": "1",
             "body": "Test",
             "start":"2021-09-26T00:00:00.000",  
             "end":"2021-09-26T24:00:00.000"  
@@ -14,11 +13,28 @@
             "calendarId": "2",
             "category": "time",
             "isVisible": true,
-            "title": "javascript 50p 읽기",
-            "id": "1",
+            "title": "javascript deep dive 50p 읽기",
             "body": "Test",
             "start":"2021-09-26T00:00:00.000",  
             "end":"2021-09-26T24:00:00.000"  
+        },
+        {
+            "calendarId": "2",
+            "category": "time",
+            "isVisible": true,
+            "title": "javascript deep dive 50p 읽기(closer)",
+            "body": "Test",
+            "start":"2021-09-27T00:00:00.000",  
+            "end":"2021-09-27T24:00:00.000"  
+        },
+        {
+            "calendarId": "2",
+            "category": "time",
+            "isVisible": true,
+            "title": "javascript deep dive 50p 읽기(class)",
+            "body": "Test",
+            "start":"2021-09-29T00:00:00.000",  
+            "end":"2021-09-29T24:00:00.000"  
         }
     ]
 }
