@@ -39,6 +39,30 @@
             "title": "javascript deep dive 50p 읽기(~ES6)",
             "start":"2021-09-30T00:00:00.000",  
             "end":"2021-09-30T24:00:00.000"  
+        },
+        {
+            "calendarId": "2",
+            "category": "time",
+            "isVisible": true,
+            "title": "javascript deep dive 50p 읽기(~array)",
+            "start":"2021-10-01T00:00:00.000",  
+            "end":"2021-10-01T24:00:00.000"  
+        },
+        {
+            "calendarId": "2",
+            "category": "time",
+            "isVisible": true,
+            "title": "javascript deep dive 50p 읽기(~Date객체)",
+            "start":"2021-10-02T00:00:00.000",  
+            "end":"2021-10-02T24:00:00.000"  
+        },
+        {
+            "calendarId": "2",
+            "category": "time",
+            "isVisible": true,
+            "title": "javascript deep dive 50p 읽기(~String)",
+            "start":"2021-10-03T00:00:00.000",  
+            "end":"2021-10-03T24:00:00.000"  
         }
     ]
 }
