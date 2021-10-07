@@ -71,6 +71,14 @@
             "title": "javascript deep dive 50p 읽기(Set,Map)",
             "start":"2021-10-04T00:00:00.000",  
             "end":"2021-10-04T24:00:00.000"  
+        },
+        {
+            "calendarId": "2",
+            "category": "time",
+            "isVisible": true,
+            "title": "javascript deep dive 50p 읽기",
+            "start":"2021-10-07T00:00:00.000",  
+            "end":"2021-10-07T24:00:00.000"  
         }
     ]
 }
